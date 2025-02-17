@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **node.js and typescript**
 
-- 👯 I’m mobile app working on [Zumapetshop](https://github.com/NatanonThunil/Zuma_Pet_Shop)
+- 👯 I’m working on a mobile app  [Zumapetshop](https://github.com/NatanonThunil/Zuma_Pet_Shop)
 
 - 📫 How to reach me **6531503039@lamduan.mfu.ac.th**
 
