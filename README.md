@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natanon Thuenil</h1>
-<h3 align="center">I'm Natanon Thunil, a passionate full-stack developer with a strong enthusiasm for building scalable and efficient web applications. I enjoy working with both front-end and back-end technologies, always striving to improve my skills and stay updated with the latest trends in development.</h3>
+<h3 align="center">I'm Natanon Thunil,From Mae Fah Luang University a passionate full-stack developer with a strong enthusiasm for building scalable and efficient web applications. I enjoy working with both front-end and back-end technologies, always striving to improve my skills and stay updated with the latest trends in development.</h3>
 <!-------GIF----->
 <img align = "right" height="300" width = "300" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Rpbm1vMmRjdmliZXowYWNjNnV3OXoxMjhpNDFmMzF4dTV2cjllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif"/>
 
